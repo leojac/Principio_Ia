@@ -193,7 +193,7 @@ realiza las siguientes operaciones:
 1. Genera un conjunto de datos de prueba (mínimo 10,000 muestras), considerando los criterios antes indicados y teniendo en cuenta tu experiencia personal, donde, a partir del análisis de la información del producto, estos puedan ser catalogados dentro los protocolos disponibles.
 2. La planta industrial tiene una distribución como la que se muestra la imagen
 
-![Imagen de idea del problema en esquema](recursos/img/image.png)
+![Imagen de idea del problema en esquema](../blob/main/recursos/Img/image.png)
 
 - Cada vehículo puede transportar un máximo de tres productos al mismo tiempo.
 - Los productos en el almacén no poseen un orden determinado.
